@@ -7,6 +7,7 @@ http://vpython.org/contents/download_windows.html                  - Link to pyt
 http://www.pygame.org/download.shtml                               - Pygame 1.9.1 (get the one that says pygame-1.9.1.win32-py2.7.msi) 
 http://www.oracle.com/technetwork/java/javase/downloads/index.html - JDK (Java Development Kit) 
 https://github.com/renpytom/rapt-pygame-example                    - RAPT (download the Step 2 file, the .zip they mention)
+Android SDK link included in the RAPT instructions 
 
 Usage
 ------
