@@ -1,3 +1,10 @@
+"""
+This script will open a box, then play a sound.  
+Then it creates a button, and when the mouse hovers over the button it will play the sound again
+The purpose is to tell you if your Bluetooth headphones are connected. 
+"""
+
+
 try:
     import pygame_sdl2
     pygame_sdl2.import_as_pygame()
