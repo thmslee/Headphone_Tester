@@ -14,11 +14,11 @@ Usage
 Write your script using pygame 
 Go into the command prompt and cd your way to the RAPT folder
 Type:
-    python android.py configure <<<<folder name>>>>> 
-^ Replace <<<<folder name>>>>> with the name of the folder 
+    python android.py configure ***folder name***
+Replace ***folder name*** with the name of the folder 
 Answer the questions (sample questions included in the RAPT github link) 
 Type:
-    python android.py --launch build <<<<folder name>>>>>  release
+    python android.py --launch build ***folder name***  release
 Get your .apk from the bin folder and test it out on your phone! 
 
 NOTE:
