@@ -11,9 +11,9 @@ Android SDK link included in the RAPT instructions
 
 Usage
 ------
-\n Write your script using pygame 
-\n Go into the command prompt and cd your way to the RAPT folder
-\n Type:
+<br> Write your script using pygame 
+<br> Go into the command prompt and cd your way to the RAPT folder
+<br> Type:
 \n    python android.py configure ***folder name***
 Replace ***folder name*** with the name of the folder 
 Answer the questions (sample questions included in the RAPT github link) 
